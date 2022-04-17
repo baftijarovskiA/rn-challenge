@@ -1,0 +1,10 @@
+{
+  "autoimport.autoComplete": true,
+  "autoimport.filesToScan": "**/*.{ts,tsx}",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "cSpell.words": ["appstorage", "createape", "createapeapp", "Formik", "MMKV", "Pressable"]
+}
