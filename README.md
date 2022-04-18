@@ -20,6 +20,18 @@ After the environment setup start the application with those scripts:
 
 Runs the app in the development mode.
 
+### Test cases
+
+- Successful login:
+  - hello@gmail.com
+  - 12345678
+- Incorrect password:
+  - hello@gmail.com
+  - 123456789
+- Email not registered:
+  - hello@email.com
+  - 12345678
+
 ### Coding Manifesto
 
 - We will use functional components.
