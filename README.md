@@ -1,6 +1,5 @@
 # React Native Challenge Application
 
-This project is a challenge application for CreateApe and the app is called CreateApeApp.
 
 ## Setup environments
 
